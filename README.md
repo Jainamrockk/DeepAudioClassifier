@@ -196,4 +196,3 @@ with open('capuchin_scores.csv', 'w', newline='') as file:
 ```
 
 
-Feel free to adjust any sections as needed!
