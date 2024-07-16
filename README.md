@@ -5,6 +5,15 @@
 
 This repository contains a deep learning model for classifying audio clips to detect Capuchin bird calls. The project utilizes TensorFlow and TensorFlow I/O for processing audio data and building the classifier.
 
+## Features Used
+Short-Time Fourier Transform (STFT): A technique to analyze the frequency content of audio signals over time, enabling the conversion of audio waves into spectrograms.
+Resampling: Conversion of audio signals to a uniform sample rate (16 kHz) for consistent input to the model.
+Data Augmentation: Techniques to enhance the training dataset and improve model robustness.
+Convolutional Neural Networks (CNN): A deep learning architecture utilized for classifying spectrograms, consisting of convolutional and pooling layers.
+TensorFlow Datasets: Efficient data loading and preprocessing pipelines to handle large audio datasets.
+Model Evaluation Metrics: Precision, recall, and binary cross-entropy loss to evaluate model performance.
+
+
 ## Table of Contents
 
 - [Installation](#installation)
