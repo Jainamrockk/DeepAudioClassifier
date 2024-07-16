@@ -150,6 +150,10 @@ plt.legend()
 plt.show()
 ```
 ![alt text](https://github.com/Jainamrockk/DeepAudioClassifier/blob/main/Images/Loss.png)
+![alt text](https://github.com/Jainamrockk/DeepAudioClassifier/blob/main/Images/Precision.png)
+![alt text](https://github.com/Jainamrockk/DeepAudioClassifier/blob/main/Images/Recall.png)
+
+
 
 ### Prediction
 
